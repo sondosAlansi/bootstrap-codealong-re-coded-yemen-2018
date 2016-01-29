@@ -4,4 +4,4 @@
 
 <p><a href="https://www.youtube.com/watch?v=o5UCDvaNLd8">Bootstrap Code-Along</a></p>.
 
-<a href='https://learn.co/lessons/bootstrap-codealong' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-codealong' title='bootstrap-codealong'>bootstrap-codealong</a> on Learn.co and start learning to code for free.</p>
